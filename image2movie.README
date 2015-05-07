@@ -1,0 +1,1 @@
+avconv -f image2 -i images%04d.png -r 76 -s 800x600 foo.avi^C
